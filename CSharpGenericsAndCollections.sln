@@ -1,0 +1,23 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharpGenericsAndCollections", "CSharpGenericsAndCollections\CSharpGenericsAndCollections.csproj", "{DC7BC04B-B7F8-4F96-8722-841A0A54E110}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharpGenericsAndCollectionsTests", "CSharpGenericsAndCollectionsTests\CSharpGenericsAndCollectionsTests.csproj", "{D7F0E714-F641-49A5-84DC-8FD6E2A48124}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DC7BC04B-B7F8-4F96-8722-841A0A54E110}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC7BC04B-B7F8-4F96-8722-841A0A54E110}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC7BC04B-B7F8-4F96-8722-841A0A54E110}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC7BC04B-B7F8-4F96-8722-841A0A54E110}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D7F0E714-F641-49A5-84DC-8FD6E2A48124}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D7F0E714-F641-49A5-84DC-8FD6E2A48124}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D7F0E714-F641-49A5-84DC-8FD6E2A48124}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D7F0E714-F641-49A5-84DC-8FD6E2A48124}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
