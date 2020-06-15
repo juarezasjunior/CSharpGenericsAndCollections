@@ -15,5 +15,10 @@
   <ItemGroup>
     <Folder Include="01_TheProblem\" />
     <Folder Include="02_TheSolution\" />
+    <Folder Include="03_Generics\" />
+    <Folder Include="04_Collections\" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\CSharpGenericsAndCollections\CSharpGenericsAndCollections.csproj" />
   </ItemGroup>
 </Project>
