@@ -4,7 +4,7 @@ using System.Linq;
 
 namespace CSharpGenericsAndCollections._Generics
 {
-    public class Repository<T> where T : BaseModel
+    public class Repository<T> where T : BaseModel, new()
     {
         private List<T> database = new List<T>();
 
